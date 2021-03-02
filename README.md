@@ -47,5 +47,5 @@ k3d cluster delete meucluster
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AndreGM/kubernets/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/AndreGM/kubernetes/issues).
 
