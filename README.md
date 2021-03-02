@@ -10,7 +10,7 @@
 ## Install
 
 ```sh
-k3d cluster create meucluster -p &#34;8080:30000@loadbalancer&#34; --servers 1 --agents 2
+k3d cluster create meucluster -p "8080:30000@loadbalancer" --servers 1 --agents 2
 ```
 
 ```sh
